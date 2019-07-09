@@ -1,6 +1,3 @@
-"Title"
-"Author"
 Good afternoon
-Hi Alexandra
+Hey there
 Git excited!
-LOL
